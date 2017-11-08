@@ -2,12 +2,13 @@
 This repository is going to sotre Machine Learning project coded by Python
 
 Pre_Kaggle:
+====
 This folder includes machine learning project which I did one years ago.
 It comprises three Kaggle competitions in three different settings: classification, regression,
 and density modelling.
 
 Classification:
-
+----
 Description of training data. The training dataset comprises 1,962 data points with 265
 dimensional inputs and binary class labels. The training inputs and outputs are available as
 separate comma separated value (CSV) files. The first row of each CSV file contains the column
@@ -28,7 +29,7 @@ Description of evaluation metric. The Area Under the Receiver Operator Character
 ROC) will be used for evaluation 
 
 Regression:
-
+----
 Description of training data. The training dataset comprises 33,750 data points with 14
 dimensional inputs and one dimensional real-valued outputs. The training inputs and outputs
 are available as separate CSV files as before.
@@ -50,7 +51,7 @@ evaluation. The RMSE is defined as the average error between the predictions (ŷ
 Outputs associated with missing inputs contribute equally to those without
 
 Density Modelling:
-
+----
 Description of training data. The dataset comprises 5,000 data points each of 14 dimensions
 drawn from an unknown probability density. The data are available as a CSV file. The goal is
 to estimate the log-probability density at each of these points. Note that three of the variables
